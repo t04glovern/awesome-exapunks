@@ -17,7 +17,7 @@ You can follow along and understand how I solved these puzzles by using the play
 | [Trash World News - Tutorial 3](solutions/03-trash-world-news-tutorial-3)                                          | 10     | 14   | 4        |
 | [Trash World News - Tutorial 4](solutions/04-trash-world-news-tutorial-4)                                          | 404    | 13   | 2        |
 | [Euclid's Pizza - Order System](solutions/05-euclids-pizza-order-system)                                           | 14     | 18   | 2        |
-| [Mitsuzen HDI-10 - Left Arm](solutions/06-mitsuzen-hdi-10-left-armd)                                               | 240    | 23   | 6        |
+| [Mitsuzen HDI-10 - Left Arm](solutions/06-mitsuzen-hdi-10-left-arm)                                                | 240    | 23   | 6        |
 | [Last Stop Snaxnet - Factory 11](solutions/07-last-stop-snaxnet-factory-11)                                        | 76     | 18   | 2        |
 | [Zebros Copies - Point-Of-Sale System](solutions/08-zebros-copies-point-of-sale-system)                            | 230    | 34   | 4        |
 | [SFCTA Highway Sign #4902 - Remote Access Interface](solutions/09-sfcta-highway-sign-4902-remote-access-interface) | 185    | 32   | 2        |
