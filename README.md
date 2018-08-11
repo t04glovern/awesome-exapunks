@@ -2,7 +2,13 @@
 
 Steam - [https://store.steampowered.com/app/716490/EXAPUNKS/](https://store.steampowered.com/app/716490/EXAPUNKS/)
 
-## Solutions
+## Video Solutions
+
+You can follow along and understand how I solved these puzzles by using the playlist!
+
+[https://www.youtube.com/watch?v=7OyZNJJfj0w&list=PLUsqXNfbLYixubcDcS-JhSIqj-8EUDK-d](https://www.youtube.com/watch?v=7OyZNJJfj0w&list=PLUsqXNfbLYixubcDcS-JhSIqj-8EUDK-d)
+
+## Code Solutions
 
 | Level                                                                                                              | Cycles | Size | Activity |
 |--------------------------------------------------------------------------------------------------------------------|--------|------|----------|
@@ -20,6 +26,8 @@ Steam - [https://store.steampowered.com/app/716490/EXAPUNKS/](https://store.stea
 | [Workhouse - Work Management System](solutions/12-workhouse-work-management-system)                                | 666    | 30   | 2        |
 | [Equity First Bank - San Fancisco](solutions/13-equity-first-bank-san-francisco)                                   | 3009   | 36   | 10       |
 | [Mitsuzen HDI-10 - Heart](solutions/14-mitsuzen-hdi-10-heart)                                                      | 405    | 35   | 8        |
+| [Trash World News - Unknown Context](solutions/15-trash-world-news-unknown-context)                                | 1508   | 34   | 5        |
+| [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                        | 7953   | 31   | 12       |
 
 ## Tools
 
