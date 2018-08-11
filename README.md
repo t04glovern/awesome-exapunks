@@ -20,14 +20,14 @@ You can follow along and understand how I solved these puzzles by using the play
 | [Mitsuzen HDI-10 - Left Arm](solutions/06-mitsuzen-hdi-10-left-armd)                                               | 240    | 23   | 6        |
 | [Last Stop Snaxnet - Factory 11](solutions/07-last-stop-snaxnet-factory-11)                                        | 76     | 18   | 2        |
 | [Zebros Copies - Point-Of-Sale System](solutions/08-zebros-copies-point-of-sale-system)                            | 230    | 34   | 4        |
-| [SFCTA Highway Sign #4902 - Remote Access Interface](solutions/09-sfcta-highway-sign-4902-remote-access-interface) | 186    | 33   | 2        |
+| [SFCTA Highway Sign #4902 - Remote Access Interface](solutions/09-sfcta-highway-sign-4902-remote-access-interface) | 185    | 32   | 2        |
 | [Unknown Network 1 - Unknown Context](solutions/10-unknown-network-1-unknown-context)                              | 19     | 88   | 44       |
 | [UC Berkeley - EECS Department](solutions/11-uc-berkeley-eecs-department)                                          | 408    | 34   | 7        |
 | [Workhouse - Work Management System](solutions/12-workhouse-work-management-system)                                | 666    | 30   | 2        |
 | [Equity First Bank - San Fancisco](solutions/13-equity-first-bank-san-francisco)                                   | 3009   | 36   | 10       |
 | [Mitsuzen HDI-10 - Heart](solutions/14-mitsuzen-hdi-10-heart)                                                      | 405    | 35   | 8        |
 | [Trash World News - Unknown Context](solutions/15-trash-world-news-unknown-context)                                | 1508   | 34   | 5        |
-| [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                        | 7953   | 31   | 12       |
+| [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                        | 7952   | 30   | 12       |
 
 ## Tools
 
