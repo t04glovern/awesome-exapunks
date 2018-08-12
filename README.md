@@ -27,7 +27,7 @@ You can follow along and understand how I solved these puzzles by using the play
 | [Equity First Bank - San Fancisco](solutions/13-equity-first-bank-san-francisco)                                   | 3009   | 36   | 10       |
 | [Mitsuzen HDI-10 - Heart](solutions/14-mitsuzen-hdi-10-heart)                                                      | 405    | 35   | 8        |
 | [Trash World News - Unknown Context](solutions/15-trash-world-news-unknown-context)                                | 1508   | 34   | 5        |
-| [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                        | 7952   | 30   | 12       |
+| [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                        | 6940   | 29   | 9       |
 
 ## Tools
 
