@@ -27,7 +27,19 @@ You can follow along and understand how I solved these puzzles by using the play
 | [Equity First Bank - San Fancisco](solutions/13-equity-first-bank-san-francisco)                                   | 3009   | 36   | 10       |
 | [Mitsuzen HDI-10 - Heart](solutions/14-mitsuzen-hdi-10-heart)                                                      | 405    | 35   | 8        |
 | [Trash World News - Unknown Context](solutions/15-trash-world-news-unknown-context)                                | 1508   | 34   | 5        |
-| [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                        | 6940   | 29   | 9       |
+| [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                        | 6940   | 29   | 9        |
+| [Digital Library Project - Patron Access System](solutions/17-digital-library-project-patron-access-system)        | 164    | 100  | 112      |
+| [TEC EXA-Blaster Modem - Radio Stations](solutions/18-tec-exa-blaster-modem-radio-stations)                        | 1894   | 89   | 17       |
+| [Emerson's Guide - Streetsmarts GIS Database](solutions/19-emersonsguide-streetsmarts-gis-database)                | 53     | 47   | 6        |
+| [Mitsuzen HDI-10 - Left Hand](solutions/20-mitsuzen-hdi-10-left-hand)                                              | 93     | 72   | 10       |
+| [Sawayama Wonderdisc - Drive Controller](solutions/21-sawayama-wonderdisc-drive-controller)                        | 10800  | 71   | 123      |
+
+## Battles
+
+| Level                                                           | Rating | Wins | Draws | Losses |
+|-----------------------------------------------------------------|--------|------|-------|--------|
+| [KGOG-TV - Programming Hub](battles/01-kgog-tv-programming-hub) | S+     | 100  | 0     | 0      |
+| [Valhalla - =Plastered](battles/02-valhalla-plastered)          | S+     | 100  | 0     | 0      |
 
 ## Tools
 
