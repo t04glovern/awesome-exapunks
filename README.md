@@ -34,13 +34,16 @@ You can follow along and understand how I solved these puzzles by using the play
 | [Mitsuzen HDI-10 - Left Hand](solutions/20-mitsuzen-hdi-10-left-hand)                                                   | 93     | 72   | 10       |
 | [Sawayama Wonderdisc - Drive Controller](solutions/21-sawayama-wonderdisc-drive-controller)                             | 10800  | 71   | 123      |
 | [Alliance Power and Light - Streetsmarts GIS Database](solutions/22-alliance-power-and-light-streetsmarts-gis-database) | 46     | 68   | 59       |
+| [Xtreme League Baseball - Player Database](solutions/23-xtreme-league-baseball-player-database)                         | 854    | 78   | 1        |
+| [King's Ransom Online - US West Realm](solutions/24-kings-ransom-online-us-west-realm)                                  | 51     | 45   | 32       |
 
 ## Battles
 
-| Level                                                           | Rating | Wins | Draws | Losses |
-|-----------------------------------------------------------------|--------|------|-------|--------|
-| [KGOG-TV - Programming Hub](battles/01-kgog-tv-programming-hub) | S+     | 100  | 0     | 0      |
-| [Valhalla - =Plastered](battles/02-valhalla-plastered)          | S+     | 100  | 0     | 0      |
+| Level                                                                | Rating | Wins | Draws | Losses |
+|----------------------------------------------------------------------|--------|------|-------|--------|
+| [KGOG-TV - Programming Hub](battles/01-kgog-tv-programming-hub)      | S+     | 100  | 0     | 0      |
+| [Valhalla - =Plastered](battles/02-valhalla-plastered)               | S+     | 100  | 0     | 0      |
+| [Deadlock's Domain - Deadlock](battles/03-deadlocks-domain-deadlock) | S+     | 100  | 0     | 0      |
 
 ## Tools
 
