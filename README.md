@@ -20,7 +20,7 @@ You can follow along and understand how I solved these puzzles by using the play
 | [Mitsuzen HDI-10 - Left Arm](solutions/06-mitsuzen-hdi-10-left-arm)                                                     | 240    | 23   | 6        |
 | [Last Stop Snaxnet - Factory 11](solutions/07-last-stop-snaxnet-factory-11)                                             | 76     | 18   | 2        |
 | [Zebros Copies - Point-Of-Sale System](solutions/08-zebros-copies-point-of-sale-system)                                 | 230    | 34   | 4        |
-| [SFCTA Highway Sign #4902 - Remote Access Interface](solutions/09-sfcta-highway-sign-4902-remote-access-interface)      | 185    | 32   | 2        |
+| [SFCTA Highway Sign #4902 - Remote Access Interface](solutions/09-sfcta-highway-sign-4902-remote-access-interface)      | 185    | 13   | 2        |
 | [Unknown Network 1 - Unknown Context](solutions/10-unknown-network-1-unknown-context)                                   | 19     | 88   | 44       |
 | [UC Berkeley - EECS Department](solutions/11-uc-berkeley-eecs-department)                                               | 408    | 34   | 7        |
 | [Workhouse - Work Management System](solutions/12-workhouse-work-management-system)                                     | 666    | 30   | 2        |
@@ -28,7 +28,7 @@ You can follow along and understand how I solved these puzzles by using the play
 | [Mitsuzen HDI-10 - Heart](solutions/14-mitsuzen-hdi-10-heart)                                                           | 405    | 35   | 8        |
 | [Trash World News - Unknown Context](solutions/15-trash-world-news-unknown-context)                                     | 1508   | 34   | 5        |
 | [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                             | 6940   | 29   | 9        |
-| [Digital Library Project - Patron Access System](solutions/17-digital-library-project-patron-access-system)             | 164    | 100  | 112      |
+| [Digital Library Project - Patron Access System](solutions/17-digital-library-project-patron-access-system)             | 164    | 40   | 83       |
 | [TEC EXA-Blaster Modem - Radio Stations](solutions/18-tec-exa-blaster-modem-radio-stations)                             | 1894   | 89   | 17       |
 | [Emerson's Guide - Streetsmarts GIS Database](solutions/19-emersonsguide-streetsmarts-gis-database)                     | 53     | 47   | 6        |
 | [Mitsuzen HDI-10 - Left Hand](solutions/20-mitsuzen-hdi-10-left-hand)                                                   | 93     | 72   | 10       |
@@ -36,6 +36,8 @@ You can follow along and understand how I solved these puzzles by using the play
 | [Alliance Power and Light - Streetsmarts GIS Database](solutions/22-alliance-power-and-light-streetsmarts-gis-database) | 46     | 68   | 59       |
 | [Xtreme League Baseball - Player Database](solutions/23-xtreme-league-baseball-player-database)                         | 854    | 78   | 1        |
 | [King's Ransom Online - US West Realm](solutions/24-kings-ransom-online-us-west-realm)                                  | 51     | 45   | 32       |
+| [KGOG-TV - Satellite Uplink](solutions/25-kgog-tv-satellite-uplink)                                                     | 636    | 87   | 10       |
+| [Equity First Bank - San Francisco - ATMs Offline](solutions/26-equity-first-bank-san-francisco-atms-offline)           |        |      |          |
 
 ## Battles
 
